@@ -1,0 +1,113 @@
+{
+  "classification": "aggregate_historical_counts_only",
+  "snapshot_date": null,
+  "source_scope": "A saved backend snapshot; not a live or current database extract.",
+  "tables": [
+    {
+      "name": "leads",
+      "meaning": "Lead/context records",
+      "records": 606,
+      "source_columns": 20,
+      "missing_primary_ids": 0,
+      "duplicate_primary_ids": 0,
+      "workbook_checked": true
+    },
+    {
+      "name": "outreach-events",
+      "meaning": "Operation event records",
+      "records": 1771,
+      "source_columns": 21,
+      "missing_primary_ids": 0,
+      "duplicate_primary_ids": 0,
+      "workbook_checked": true
+    },
+    {
+      "name": "daily-runs",
+      "meaning": "Execution run records",
+      "records": 39,
+      "source_columns": 13,
+      "missing_primary_ids": 0,
+      "duplicate_primary_ids": 0,
+      "workbook_checked": true
+    },
+    {
+      "name": "mentor-directory",
+      "meaning": "Mentor profile records",
+      "records": 95,
+      "source_columns": 19,
+      "missing_primary_ids": 0,
+      "duplicate_primary_ids": 0,
+      "workbook_checked": false
+    }
+  ],
+  "definitions": [
+    "Lead/context records are not paying customers.",
+    "Event records include discovery, screening, drafts, approval, verification, exceptions and system activity; not all are successful outreach.",
+    "Run records are execution records, not distinct days.",
+    "Mentor profile records are not a count of currently available mentors."
+  ],
+  "source_reconciliation": {
+    "lead_workbook_data_rows": 606,
+    "event_workbook_data_rows": 1771,
+    "run_workbook_data_rows": 39,
+    "matches_canonical_csv": true
+  },
+  "synthetic_export_boundary": "The public full-volume examples match table row counts only. Their values, relationships, chronology and outcome distributions are newly constructed.",
+  "distinct_run_dates": 29,
+  "distinct_event_type_labels": 147,
+  "distinct_lead_stage_labels": 87,
+  "lead_stage_distribution": [
+    {
+      "label": "contacted",
+      "records": 141
+    },
+    {
+      "label": "comment_completed",
+      "records": 66
+    },
+    {
+      "label": "candidate",
+      "records": 63
+    },
+    {
+      "label": "comment_published_verified",
+      "records": 55
+    },
+    {
+      "label": "comment_verified",
+      "records": 44
+    },
+    {
+      "label": "excluded",
+      "records": 27
+    },
+    {
+      "label": "action_failed",
+      "records": 25
+    },
+    {
+      "label": "completed",
+      "records": 14
+    },
+    {
+      "label": "other_states",
+      "records": 171
+    }
+  ],
+  "run_status_distribution": [
+    {
+      "label": "completed",
+      "records": 22
+    },
+    {
+      "label": "has_pending_items",
+      "records": 6
+    },
+    {
+      "label": "other_states",
+      "records": 11
+    }
+  ],
+  "snapshot_period": "2026; exact operating date withheld",
+  "public_aggregation": "Exact operating dates are withheld. Run-status categories below five records are grouped into other_states."
+}
