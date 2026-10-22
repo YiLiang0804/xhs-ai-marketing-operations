@@ -1,0 +1,52 @@
+[
+  {
+    "id": "SYN-001",
+    "kind": "engagement",
+    "priority_score": 100,
+    "status": "pending_review",
+    "draft": "Thanks for outlining your background and question. A colleague can review the research direction and timing before confirming a next step; no mentor match, availability or admissions result is promised.",
+    "draft_method": "deterministic_template",
+    "next_step": "Review the inquiry and confirm the next step with the consultant.",
+    "synthetic": true
+  },
+  {
+    "id": "SYN-006",
+    "kind": "engagement",
+    "priority_score": 100,
+    "status": "pending_review",
+    "draft": "Thanks for outlining your background and question. A colleague can review the research direction and timing before confirming a next step; no mentor match, availability or admissions result is promised.",
+    "draft_method": "deterministic_template",
+    "next_step": "Review the inquiry and confirm the next step with the consultant.",
+    "synthetic": true
+  },
+  {
+    "id": "SYN-004",
+    "kind": "engagement",
+    "priority_score": 90,
+    "status": "pending_review",
+    "draft": "Thanks for outlining your background and question. A colleague can review the research direction and timing before confirming a next step; no mentor match, availability or admissions result is promised.",
+    "draft_method": "deterministic_template",
+    "next_step": "Review the inquiry and confirm the next step with the consultant.",
+    "synthetic": true
+  },
+  {
+    "id": "SYN-002",
+    "kind": "engagement",
+    "priority_score": 70,
+    "status": "pending_review",
+    "draft": "Thanks for sharing your interests. Could you clarify your target degree and application timeline? A colleague can then review whether an appropriate next step is available.",
+    "draft_method": "deterministic_template",
+    "next_step": "Ask for missing information before a consultant handoff.",
+    "synthetic": true
+  },
+  {
+    "id": "SYN-009",
+    "kind": "engagement",
+    "priority_score": 70,
+    "status": "pending_review",
+    "draft": "Thanks for sharing your interests. Could you clarify your target degree and application timeline? A colleague can then review whether an appropriate next step is available.",
+    "draft_method": "deterministic_template",
+    "next_step": "Ask for missing information before a consultant handoff.",
+    "synthetic": true
+  }
+]

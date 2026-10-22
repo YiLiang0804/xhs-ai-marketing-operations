@@ -1,0 +1,96 @@
+{
+  "synthetic": true,
+  "method": "standalone_offline_reconstruction",
+  "historical_basis": "Retry reservation versus execution ambiguity; observation is not execution acknowledgement.",
+  "steps": [
+    {
+      "label": "initial",
+      "phase": "idle",
+      "retry_budget_reserved": false,
+      "request_id": null,
+      "request_submitted": false,
+      "error_class": null,
+      "stopped": true,
+      "pending_interlock": true,
+      "completed_pairs": 2,
+      "deadline": "2030-01-01T09:00:00Z",
+      "audit": []
+    },
+    {
+      "label": "budget reserved",
+      "phase": "reserved",
+      "retry_budget_reserved": true,
+      "request_id": null,
+      "request_submitted": false,
+      "error_class": null,
+      "stopped": true,
+      "pending_interlock": true,
+      "completed_pairs": 2,
+      "deadline": "2030-01-01T09:00:00Z",
+      "audit": [
+        "budget_reserved_not_execution"
+      ]
+    },
+    {
+      "label": "submission recorded",
+      "phase": "attempted",
+      "retry_budget_reserved": true,
+      "request_id": "SYN-REQUEST-01",
+      "request_submitted": true,
+      "error_class": null,
+      "stopped": true,
+      "pending_interlock": true,
+      "completed_pairs": 2,
+      "deadline": "2030-01-01T09:00:00Z",
+      "audit": [
+        "budget_reserved_not_execution",
+        "request_submission_recorded"
+      ]
+    },
+    {
+      "label": "execution outcome unknown",
+      "phase": "outcome_unknown",
+      "retry_budget_reserved": true,
+      "request_id": "SYN-REQUEST-01",
+      "request_submitted": true,
+      "error_class": "tool_review_denial",
+      "stopped": true,
+      "pending_interlock": true,
+      "completed_pairs": 2,
+      "deadline": "2030-01-01T09:00:00Z",
+      "audit": [
+        "budget_reserved_not_execution",
+        "request_submission_recorded",
+        "result_recorded:outcome_unknown:tool_review_denial"
+      ]
+    },
+    {
+      "label": "later observation does not resolve execution",
+      "phase": "outcome_unknown",
+      "retry_budget_reserved": true,
+      "request_id": "SYN-REQUEST-01",
+      "request_submitted": true,
+      "error_class": "tool_review_denial",
+      "stopped": true,
+      "pending_interlock": true,
+      "completed_pairs": 2,
+      "deadline": "2030-01-01T09:00:00Z",
+      "audit": [
+        "budget_reserved_not_execution",
+        "request_submission_recorded",
+        "result_recorded:outcome_unknown:tool_review_denial",
+        "healthy_observation"
+      ]
+    }
+  ],
+  "invariants": {
+    "budget_remains_reserved": true,
+    "stop_remains_set": true,
+    "pending_interlock_remains_set": true,
+    "completed_history_preserved": true,
+    "deadline_preserved": true,
+    "healthy_observation_does_not_claim_success": true
+  },
+  "browser_calls": 0,
+  "platform_actions": 0
+}

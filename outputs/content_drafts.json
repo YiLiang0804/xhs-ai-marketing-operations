@@ -1,0 +1,53 @@
+[
+  {
+    "id": "DRAFT-001",
+    "synthetic": true,
+    "status": "pending_review",
+    "generation_method": "fixed_illustrative_fixture",
+    "audience": "Bio students exploring research preparation",
+    "title": "Planning a biology application? Start with three questions",
+    "hook": "You do not need a highly specific research label on day one.",
+    "body": "You do not need a highly specific research label on day one.\n\nIf you are organizing ideas for a biology-related application, try writing down:\n1. What research question interests you?\n2. Which experience best explains that interest?\n3. What would help next: research exposure, methods training, or better information?\n\nThis is a starting point for a conversation, not an admissions assessment. Our fictional research preparation Q&A has no confirmed date or participation arrangements.",
+    "cta": "Organize your questions first, then decide whether a further conversation would help.",
+    "tags": [
+      "Biology",
+      "Research preparation",
+      "Application planning"
+    ],
+    "review_note": "Fictional event example. Confirm event details and content ownership before any real use; do not invent speakers, institutions or outcomes."
+  },
+  {
+    "id": "DRAFT-002",
+    "synthetic": true,
+    "status": "pending_review",
+    "generation_method": "fixed_illustrative_fixture",
+    "audience": "Bio students considering bioinformatics",
+    "title": "From biology to bioinformatics: interests before a tool list",
+    "hook": "Do you need to finish every programming course first? Start with a smaller question.",
+    "body": "Do you need to finish every programming course first? Start with a smaller question.\n\nWhich biological problems interest you? What data or research tasks have you already encountered? Which part of the analysis process feels unclear?\n\nA one-page summary can make a discussion with classmates or a consulting colleague more useful than a list of tools. This example does not prescribe a course sequence or assess application competitiveness.",
+    "cta": "Try a one-page question list as a starting point for your next conversation.",
+    "tags": [
+      "Bioinformatics",
+      "Biology",
+      "Research interests"
+    ],
+    "review_note": "Editorial concept, not academic or admissions advice. Check audience relevance and natural tone."
+  },
+  {
+    "id": "DRAFT-003",
+    "synthetic": true,
+    "status": "pending_review",
+    "generation_method": "fixed_illustrative_fixture",
+    "audience": "Prospective attendees of a research Q&A",
+    "title": "What should you prepare before a research Q&A?",
+    "hook": "You do not need a perfect application story to start a conversation.",
+    "body": "You do not need a perfect application story to start a conversation.\n\nBring three specific questions: What have I done so far? Where am I most uncertain? What would I like to test next?\n\nIf background information is relevant, prepare a short version without contact details. Event topics, times and speaker information must come from an approved announcement. This example demonstrates content planning only.",
+    "cta": "Write down the one question you most want to ask.",
+    "tags": [
+      "Research interests",
+      "Q&A",
+      "Question planning"
+    ],
+    "review_note": "No actual speaker or event is represented. Verify all factual claims and public release permission."
+  }
+]

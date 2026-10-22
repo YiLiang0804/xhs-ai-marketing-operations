@@ -1,0 +1,357 @@
+[
+  {
+    "id": "SYN-001",
+    "synthetic": true,
+    "message": "I am preparing for the next bioinformatics PhD application cycle. Could we discuss how to organize my research experience this week?",
+    "topic": "bioinformatics",
+    "degree_goal": "PhD",
+    "timeline": "next_cycle",
+    "explicit_request": true,
+    "time_sensitive": true,
+    "followup_permission": true,
+    "stage": "new",
+    "priority_score": 100,
+    "score_reasons": [
+      {
+        "rule": "explicit_request",
+        "points": 40
+      },
+      {
+        "rule": "topic_in_scope",
+        "points": 30
+      },
+      {
+        "rule": "goal_and_timeline_provided",
+        "points": 20
+      },
+      {
+        "rule": "explicit_time_sensitive_request",
+        "points": 10
+      }
+    ],
+    "missing_information": [],
+    "blocked_reasons": [],
+    "next_step": "Review the inquiry and confirm the next step with the consultant.",
+    "eligible_for_review": true,
+    "review_status": "pending_review"
+  },
+  {
+    "id": "SYN-006",
+    "synthetic": true,
+    "message": "I am preparing research questions for the next PhD application cycle. Could we confirm how to organize them this week?",
+    "topic": "research_preparation",
+    "degree_goal": "PhD",
+    "timeline": "next_cycle",
+    "explicit_request": true,
+    "time_sensitive": true,
+    "followup_permission": true,
+    "stage": "new",
+    "priority_score": 100,
+    "score_reasons": [
+      {
+        "rule": "explicit_request",
+        "points": 40
+      },
+      {
+        "rule": "topic_in_scope",
+        "points": 30
+      },
+      {
+        "rule": "goal_and_timeline_provided",
+        "points": 20
+      },
+      {
+        "rule": "explicit_time_sensitive_request",
+        "points": 10
+      }
+    ],
+    "missing_information": [],
+    "blocked_reasons": [],
+    "next_step": "Review the inquiry and confirm the next step with the consultant.",
+    "eligible_for_review": true,
+    "review_status": "pending_review"
+  },
+  {
+    "id": "SYN-004",
+    "synthetic": true,
+    "message": "I am considering a biomedical master's program starting next year. Could you help me organize questions for a consulting colleague?",
+    "topic": "biomedical",
+    "degree_goal": "MS",
+    "timeline": "next_year",
+    "explicit_request": true,
+    "time_sensitive": false,
+    "followup_permission": true,
+    "stage": "new",
+    "priority_score": 90,
+    "score_reasons": [
+      {
+        "rule": "explicit_request",
+        "points": 40
+      },
+      {
+        "rule": "topic_in_scope",
+        "points": 30
+      },
+      {
+        "rule": "goal_and_timeline_provided",
+        "points": 20
+      }
+    ],
+    "missing_information": [],
+    "blocked_reasons": [],
+    "next_step": "Review the inquiry and confirm the next step with the consultant.",
+    "eligible_for_review": true,
+    "review_status": "pending_review"
+  },
+  {
+    "id": "SYN-007",
+    "synthetic": true,
+    "message": "My question about the next bioinformatics PhD application cycle is already with a consulting colleague. The marketing team does not need to follow up again.",
+    "topic": "bioinformatics",
+    "degree_goal": "PhD",
+    "timeline": "next_cycle",
+    "explicit_request": true,
+    "time_sensitive": false,
+    "followup_permission": true,
+    "stage": "handed_off",
+    "priority_score": 90,
+    "score_reasons": [
+      {
+        "rule": "explicit_request",
+        "points": 40
+      },
+      {
+        "rule": "topic_in_scope",
+        "points": 30
+      },
+      {
+        "rule": "goal_and_timeline_provided",
+        "points": 20
+      }
+    ],
+    "missing_information": [],
+    "blocked_reasons": [
+      "inactive_or_already_handed_off"
+    ],
+    "next_step": "Hold for operator review; do not add an engagement action.",
+    "eligible_for_review": false,
+    "review_status": "held"
+  },
+  {
+    "id": "SYN-008",
+    "synthetic": true,
+    "message": "I previously asked about a biomedical master's program for next year. I no longer want follow-up messages.",
+    "topic": "biomedical",
+    "degree_goal": "MS",
+    "timeline": "next_year",
+    "explicit_request": true,
+    "time_sensitive": false,
+    "followup_permission": false,
+    "stage": "closed",
+    "priority_score": 90,
+    "score_reasons": [
+      {
+        "rule": "explicit_request",
+        "points": 40
+      },
+      {
+        "rule": "topic_in_scope",
+        "points": 30
+      },
+      {
+        "rule": "goal_and_timeline_provided",
+        "points": 20
+      }
+    ],
+    "missing_information": [],
+    "blocked_reasons": [
+      "followup_not_requested",
+      "inactive_or_already_handed_off"
+    ],
+    "next_step": "Hold for operator review; do not add an engagement action.",
+    "eligible_for_review": false,
+    "review_status": "held"
+  },
+  {
+    "id": "SYN-002",
+    "synthetic": true,
+    "message": "I am an undergraduate considering a move from biology to a bioinformatics master's program. Could you help me work out which questions to ask first?",
+    "topic": "bioinformatics",
+    "degree_goal": "MS",
+    "timeline": null,
+    "explicit_request": true,
+    "time_sensitive": false,
+    "followup_permission": true,
+    "stage": "new",
+    "priority_score": 70,
+    "score_reasons": [
+      {
+        "rule": "explicit_request",
+        "points": 40
+      },
+      {
+        "rule": "topic_in_scope",
+        "points": 30
+      }
+    ],
+    "missing_information": [
+      "timeline"
+    ],
+    "blocked_reasons": [],
+    "next_step": "Ask for missing information before a consultant handoff.",
+    "eligible_for_review": true,
+    "review_status": "pending_review"
+  },
+  {
+    "id": "SYN-009",
+    "synthetic": true,
+    "message": "Could you help me understand research preparation? I have not decided on a target degree or application timeline yet.",
+    "topic": "research_preparation",
+    "degree_goal": null,
+    "timeline": null,
+    "explicit_request": true,
+    "time_sensitive": false,
+    "followup_permission": true,
+    "stage": "new",
+    "priority_score": 70,
+    "score_reasons": [
+      {
+        "rule": "explicit_request",
+        "points": 40
+      },
+      {
+        "rule": "topic_in_scope",
+        "points": 30
+      }
+    ],
+    "missing_information": [
+      "degree_goal",
+      "timeline"
+    ],
+    "blocked_reasons": [],
+    "next_step": "Ask for missing information before a consultant handoff.",
+    "eligible_for_review": true,
+    "review_status": "pending_review"
+  },
+  {
+    "id": "SYN-005",
+    "synthetic": true,
+    "message": "I need urgent help with a tourist visa this month. I am not considering graduate applications; please let me know whether you handle this.",
+    "topic": "travel_visa",
+    "degree_goal": null,
+    "timeline": "this_month",
+    "explicit_request": true,
+    "time_sensitive": true,
+    "followup_permission": true,
+    "stage": "new",
+    "priority_score": 50,
+    "score_reasons": [
+      {
+        "rule": "explicit_request",
+        "points": 40
+      },
+      {
+        "rule": "explicit_time_sensitive_request",
+        "points": 10
+      }
+    ],
+    "missing_information": [
+      "degree_goal"
+    ],
+    "blocked_reasons": [
+      "out_of_scope"
+    ],
+    "next_step": "Hold for operator review; do not add an engagement action.",
+    "eligible_for_review": false,
+    "review_status": "held"
+  },
+  {
+    "id": "SYN-010",
+    "synthetic": true,
+    "message": "I am pausing my biomedical PhD plans for six months. I will contact the team myself when I am ready.",
+    "topic": "biomedical",
+    "degree_goal": "PhD",
+    "timeline": "later",
+    "explicit_request": false,
+    "time_sensitive": false,
+    "followup_permission": false,
+    "stage": "hold",
+    "priority_score": 50,
+    "score_reasons": [
+      {
+        "rule": "topic_in_scope",
+        "points": 30
+      },
+      {
+        "rule": "goal_and_timeline_provided",
+        "points": 20
+      }
+    ],
+    "missing_information": [],
+    "blocked_reasons": [
+      "followup_not_requested",
+      "inactive_or_already_handed_off"
+    ],
+    "next_step": "Hold for operator review; do not add an engagement action.",
+    "eligible_for_review": false,
+    "review_status": "held"
+  },
+  {
+    "id": "SYN-011",
+    "synthetic": true,
+    "message": "Could you help me return a retail product? My question is unrelated to education consulting.",
+    "topic": "retail_returns",
+    "degree_goal": null,
+    "timeline": null,
+    "explicit_request": true,
+    "time_sensitive": false,
+    "followup_permission": true,
+    "stage": "new",
+    "priority_score": 40,
+    "score_reasons": [
+      {
+        "rule": "explicit_request",
+        "points": 40
+      }
+    ],
+    "missing_information": [
+      "degree_goal",
+      "timeline"
+    ],
+    "blocked_reasons": [
+      "out_of_scope"
+    ],
+    "next_step": "Hold for operator review; do not add an engagement action.",
+    "eligible_for_review": false,
+    "review_status": "held"
+  },
+  {
+    "id": "SYN-003",
+    "synthetic": true,
+    "message": "I noticed the research preparation Q&A. I will read the introduction before deciding whether to get involved.",
+    "topic": "research_preparation",
+    "degree_goal": null,
+    "timeline": null,
+    "explicit_request": false,
+    "time_sensitive": false,
+    "followup_permission": false,
+    "stage": "new",
+    "priority_score": 30,
+    "score_reasons": [
+      {
+        "rule": "topic_in_scope",
+        "points": 30
+      }
+    ],
+    "missing_information": [
+      "degree_goal",
+      "timeline"
+    ],
+    "blocked_reasons": [
+      "followup_not_requested"
+    ],
+    "next_step": "Hold for operator review; do not add an engagement action.",
+    "eligible_for_review": false,
+    "review_status": "held"
+  }
+]

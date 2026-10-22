@@ -1,0 +1,54 @@
+{
+  "synthetic": true,
+  "description": "Row volumes match a reviewed historical snapshot; all row values, links, dates, distributions and outcomes are newly constructed.",
+  "row_counts": {
+    "leads": 606,
+    "events": 1771,
+    "runs": 39,
+    "mentors": 95
+  },
+  "total_records": 2511,
+  "distinct_run_dates": 29,
+  "unique_primary_keys": {
+    "leads": 606,
+    "events": 1771,
+    "runs": 39,
+    "mentors": 95
+  },
+  "relationships": {
+    "events_with_valid_lead": 1771,
+    "events_with_valid_run": 1771,
+    "leads_with_optional_mentor": 454,
+    "unknown_mentor_references": 0,
+    "distinct_leads_with_events": 606
+  },
+  "event_type_counts": {
+    "candidate_discovered": 606,
+    "context_reviewed": 250,
+    "draft_prepared": 150,
+    "comment_attempted": 100,
+    "comment_verified": 90,
+    "like_attempted": 90,
+    "like_verified": 85,
+    "inbound_received": 50,
+    "reply_draft_prepared": 40,
+    "reply_approved": 25,
+    "reply_attempted": 25,
+    "reply_verified": 20,
+    "checkpoint_recorded": 240
+  },
+  "lead_stage_counts": {
+    "candidate": 101,
+    "context_review": 101,
+    "draft_pending": 101,
+    "awaiting_reply": 101,
+    "handoff_review": 101,
+    "held": 101
+  },
+  "mentor_demo_status_counts": {
+    "available_for_demo": 32,
+    "paused_for_demo": 32,
+    "needs_demo_confirmation": 31
+  },
+  "external_actions": 0
+}
