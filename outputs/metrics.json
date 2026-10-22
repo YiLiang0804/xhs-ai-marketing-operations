@@ -1,0 +1,20 @@
+{
+  "synthetic": true,
+  "demo_date": "2026-01-12",
+  "metric_scope": "small_regression_fixtures_only; historical and full-volume backend counts are separate outputs",
+  "input_records": 12,
+  "unique_inquiries": 11,
+  "duplicates_removed": 1,
+  "eligible_review_items": 5,
+  "blocked_inquiries": 6,
+  "content_drafts": 3,
+  "approved_engagements_today_including_seed": 9,
+  "remaining_review_allowance": 1,
+  "approved_current_items": 0,
+  "platform_messages_sent": 0,
+  "platform_posts_published": 0,
+  "post_candidates": 9,
+  "posts_eligible_for_review": 2,
+  "recovery_states_replayed": 5,
+  "note": "Synthetic workflow counts, not campaign performance, conversion rates, or AI accuracy."
+}
