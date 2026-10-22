@@ -1,0 +1,14 @@
+{
+  "synthetic": true,
+  "campaign_id": "SYN-CAMPAIGN-01",
+  "working_title": "Bio research preparation Q&A",
+  "event_status": "fictional_example_not_scheduled",
+  "event_date": null,
+  "speaker": null,
+  "audience": "Bio students exploring research preparation and bioinformatics",
+  "objective": "Help students formulate questions and request an appropriate next step",
+  "planning_cadence": "Three draft concepts per two-day editorial planning cycle",
+  "style": "Conversational English public adaptation; one focused topic; text-led dark cover concept; low-pressure CTA",
+  "unknowns_to_preserve": ["speaker", "event_date", "availability", "outcomes"],
+  "note": "Context for the prompt pack and illustrative drafts. The Python demo loads the fixed draft fixtures; it does not generate them from this brief."
+}

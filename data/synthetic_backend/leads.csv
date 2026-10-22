@@ -1,0 +1,607 @@
+lead_id,topic,stage,mentor_id,synthetic
+SYN-LEAD-0001,Research preparation,candidate,,true
+SYN-LEAD-0002,Bioinformatics,context_review,SYN-MENTOR-002,true
+SYN-LEAD-0003,Biomedical research,draft_pending,SYN-MENTOR-003,true
+SYN-LEAD-0004,Application planning,awaiting_reply,SYN-MENTOR-004,true
+SYN-LEAD-0005,Research statement,handoff_review,,true
+SYN-LEAD-0006,Research preparation,held,SYN-MENTOR-006,true
+SYN-LEAD-0007,Bioinformatics,candidate,SYN-MENTOR-007,true
+SYN-LEAD-0008,Biomedical research,context_review,SYN-MENTOR-008,true
+SYN-LEAD-0009,Application planning,draft_pending,,true
+SYN-LEAD-0010,Research statement,awaiting_reply,SYN-MENTOR-010,true
+SYN-LEAD-0011,Research preparation,handoff_review,SYN-MENTOR-011,true
+SYN-LEAD-0012,Bioinformatics,held,SYN-MENTOR-012,true
+SYN-LEAD-0013,Biomedical research,candidate,,true
+SYN-LEAD-0014,Application planning,context_review,SYN-MENTOR-014,true
+SYN-LEAD-0015,Research statement,draft_pending,SYN-MENTOR-015,true
+SYN-LEAD-0016,Research preparation,awaiting_reply,SYN-MENTOR-016,true
+SYN-LEAD-0017,Bioinformatics,handoff_review,,true
+SYN-LEAD-0018,Biomedical research,held,SYN-MENTOR-018,true
+SYN-LEAD-0019,Application planning,candidate,SYN-MENTOR-019,true
+SYN-LEAD-0020,Research statement,context_review,SYN-MENTOR-020,true
+SYN-LEAD-0021,Research preparation,draft_pending,,true
+SYN-LEAD-0022,Bioinformatics,awaiting_reply,SYN-MENTOR-022,true
+SYN-LEAD-0023,Biomedical research,handoff_review,SYN-MENTOR-023,true
+SYN-LEAD-0024,Application planning,held,SYN-MENTOR-024,true
+SYN-LEAD-0025,Research statement,candidate,,true
+SYN-LEAD-0026,Research preparation,context_review,SYN-MENTOR-026,true
+SYN-LEAD-0027,Bioinformatics,draft_pending,SYN-MENTOR-027,true
+SYN-LEAD-0028,Biomedical research,awaiting_reply,SYN-MENTOR-028,true
+SYN-LEAD-0029,Application planning,handoff_review,,true
+SYN-LEAD-0030,Research statement,held,SYN-MENTOR-030,true
+SYN-LEAD-0031,Research preparation,candidate,SYN-MENTOR-031,true
+SYN-LEAD-0032,Bioinformatics,context_review,SYN-MENTOR-032,true
+SYN-LEAD-0033,Biomedical research,draft_pending,,true
+SYN-LEAD-0034,Application planning,awaiting_reply,SYN-MENTOR-034,true
+SYN-LEAD-0035,Research statement,handoff_review,SYN-MENTOR-035,true
+SYN-LEAD-0036,Research preparation,held,SYN-MENTOR-036,true
+SYN-LEAD-0037,Bioinformatics,candidate,,true
+SYN-LEAD-0038,Biomedical research,context_review,SYN-MENTOR-038,true
+SYN-LEAD-0039,Application planning,draft_pending,SYN-MENTOR-039,true
+SYN-LEAD-0040,Research statement,awaiting_reply,SYN-MENTOR-040,true
+SYN-LEAD-0041,Research preparation,handoff_review,,true
+SYN-LEAD-0042,Bioinformatics,held,SYN-MENTOR-042,true
+SYN-LEAD-0043,Biomedical research,candidate,SYN-MENTOR-043,true
+SYN-LEAD-0044,Application planning,context_review,SYN-MENTOR-044,true
+SYN-LEAD-0045,Research statement,draft_pending,,true
+SYN-LEAD-0046,Research preparation,awaiting_reply,SYN-MENTOR-046,true
+SYN-LEAD-0047,Bioinformatics,handoff_review,SYN-MENTOR-047,true
+SYN-LEAD-0048,Biomedical research,held,SYN-MENTOR-048,true
+SYN-LEAD-0049,Application planning,candidate,,true
+SYN-LEAD-0050,Research statement,context_review,SYN-MENTOR-050,true
+SYN-LEAD-0051,Research preparation,draft_pending,SYN-MENTOR-051,true
+SYN-LEAD-0052,Bioinformatics,awaiting_reply,SYN-MENTOR-052,true
+SYN-LEAD-0053,Biomedical research,handoff_review,,true
+SYN-LEAD-0054,Application planning,held,SYN-MENTOR-054,true
+SYN-LEAD-0055,Research statement,candidate,SYN-MENTOR-055,true
+SYN-LEAD-0056,Research preparation,context_review,SYN-MENTOR-056,true
+SYN-LEAD-0057,Bioinformatics,draft_pending,,true
+SYN-LEAD-0058,Biomedical research,awaiting_reply,SYN-MENTOR-058,true
+SYN-LEAD-0059,Application planning,handoff_review,SYN-MENTOR-059,true
+SYN-LEAD-0060,Research statement,held,SYN-MENTOR-060,true
+SYN-LEAD-0061,Research preparation,candidate,,true
+SYN-LEAD-0062,Bioinformatics,context_review,SYN-MENTOR-062,true
+SYN-LEAD-0063,Biomedical research,draft_pending,SYN-MENTOR-063,true
+SYN-LEAD-0064,Application planning,awaiting_reply,SYN-MENTOR-064,true
+SYN-LEAD-0065,Research statement,handoff_review,,true
+SYN-LEAD-0066,Research preparation,held,SYN-MENTOR-066,true
+SYN-LEAD-0067,Bioinformatics,candidate,SYN-MENTOR-067,true
+SYN-LEAD-0068,Biomedical research,context_review,SYN-MENTOR-068,true
+SYN-LEAD-0069,Application planning,draft_pending,,true
+SYN-LEAD-0070,Research statement,awaiting_reply,SYN-MENTOR-070,true
+SYN-LEAD-0071,Research preparation,handoff_review,SYN-MENTOR-071,true
+SYN-LEAD-0072,Bioinformatics,held,SYN-MENTOR-072,true
+SYN-LEAD-0073,Biomedical research,candidate,,true
+SYN-LEAD-0074,Application planning,context_review,SYN-MENTOR-074,true
+SYN-LEAD-0075,Research statement,draft_pending,SYN-MENTOR-075,true
+SYN-LEAD-0076,Research preparation,awaiting_reply,SYN-MENTOR-076,true
+SYN-LEAD-0077,Bioinformatics,handoff_review,,true
+SYN-LEAD-0078,Biomedical research,held,SYN-MENTOR-078,true
+SYN-LEAD-0079,Application planning,candidate,SYN-MENTOR-079,true
+SYN-LEAD-0080,Research statement,context_review,SYN-MENTOR-080,true
+SYN-LEAD-0081,Research preparation,draft_pending,,true
+SYN-LEAD-0082,Bioinformatics,awaiting_reply,SYN-MENTOR-082,true
+SYN-LEAD-0083,Biomedical research,handoff_review,SYN-MENTOR-083,true
+SYN-LEAD-0084,Application planning,held,SYN-MENTOR-084,true
+SYN-LEAD-0085,Research statement,candidate,,true
+SYN-LEAD-0086,Research preparation,context_review,SYN-MENTOR-086,true
+SYN-LEAD-0087,Bioinformatics,draft_pending,SYN-MENTOR-087,true
+SYN-LEAD-0088,Biomedical research,awaiting_reply,SYN-MENTOR-088,true
+SYN-LEAD-0089,Application planning,handoff_review,,true
+SYN-LEAD-0090,Research statement,held,SYN-MENTOR-090,true
+SYN-LEAD-0091,Research preparation,candidate,SYN-MENTOR-091,true
+SYN-LEAD-0092,Bioinformatics,context_review,SYN-MENTOR-092,true
+SYN-LEAD-0093,Biomedical research,draft_pending,,true
+SYN-LEAD-0094,Application planning,awaiting_reply,SYN-MENTOR-094,true
+SYN-LEAD-0095,Research statement,handoff_review,SYN-MENTOR-095,true
+SYN-LEAD-0096,Research preparation,held,SYN-MENTOR-001,true
+SYN-LEAD-0097,Bioinformatics,candidate,,true
+SYN-LEAD-0098,Biomedical research,context_review,SYN-MENTOR-003,true
+SYN-LEAD-0099,Application planning,draft_pending,SYN-MENTOR-004,true
+SYN-LEAD-0100,Research statement,awaiting_reply,SYN-MENTOR-005,true
+SYN-LEAD-0101,Research preparation,handoff_review,,true
+SYN-LEAD-0102,Bioinformatics,held,SYN-MENTOR-007,true
+SYN-LEAD-0103,Biomedical research,candidate,SYN-MENTOR-008,true
+SYN-LEAD-0104,Application planning,context_review,SYN-MENTOR-009,true
+SYN-LEAD-0105,Research statement,draft_pending,,true
+SYN-LEAD-0106,Research preparation,awaiting_reply,SYN-MENTOR-011,true
+SYN-LEAD-0107,Bioinformatics,handoff_review,SYN-MENTOR-012,true
+SYN-LEAD-0108,Biomedical research,held,SYN-MENTOR-013,true
+SYN-LEAD-0109,Application planning,candidate,,true
+SYN-LEAD-0110,Research statement,context_review,SYN-MENTOR-015,true
+SYN-LEAD-0111,Research preparation,draft_pending,SYN-MENTOR-016,true
+SYN-LEAD-0112,Bioinformatics,awaiting_reply,SYN-MENTOR-017,true
+SYN-LEAD-0113,Biomedical research,handoff_review,,true
+SYN-LEAD-0114,Application planning,held,SYN-MENTOR-019,true
+SYN-LEAD-0115,Research statement,candidate,SYN-MENTOR-020,true
+SYN-LEAD-0116,Research preparation,context_review,SYN-MENTOR-021,true
+SYN-LEAD-0117,Bioinformatics,draft_pending,,true
+SYN-LEAD-0118,Biomedical research,awaiting_reply,SYN-MENTOR-023,true
+SYN-LEAD-0119,Application planning,handoff_review,SYN-MENTOR-024,true
+SYN-LEAD-0120,Research statement,held,SYN-MENTOR-025,true
+SYN-LEAD-0121,Research preparation,candidate,,true
+SYN-LEAD-0122,Bioinformatics,context_review,SYN-MENTOR-027,true
+SYN-LEAD-0123,Biomedical research,draft_pending,SYN-MENTOR-028,true
+SYN-LEAD-0124,Application planning,awaiting_reply,SYN-MENTOR-029,true
+SYN-LEAD-0125,Research statement,handoff_review,,true
+SYN-LEAD-0126,Research preparation,held,SYN-MENTOR-031,true
+SYN-LEAD-0127,Bioinformatics,candidate,SYN-MENTOR-032,true
+SYN-LEAD-0128,Biomedical research,context_review,SYN-MENTOR-033,true
+SYN-LEAD-0129,Application planning,draft_pending,,true
+SYN-LEAD-0130,Research statement,awaiting_reply,SYN-MENTOR-035,true
+SYN-LEAD-0131,Research preparation,handoff_review,SYN-MENTOR-036,true
+SYN-LEAD-0132,Bioinformatics,held,SYN-MENTOR-037,true
+SYN-LEAD-0133,Biomedical research,candidate,,true
+SYN-LEAD-0134,Application planning,context_review,SYN-MENTOR-039,true
+SYN-LEAD-0135,Research statement,draft_pending,SYN-MENTOR-040,true
+SYN-LEAD-0136,Research preparation,awaiting_reply,SYN-MENTOR-041,true
+SYN-LEAD-0137,Bioinformatics,handoff_review,,true
+SYN-LEAD-0138,Biomedical research,held,SYN-MENTOR-043,true
+SYN-LEAD-0139,Application planning,candidate,SYN-MENTOR-044,true
+SYN-LEAD-0140,Research statement,context_review,SYN-MENTOR-045,true
+SYN-LEAD-0141,Research preparation,draft_pending,,true
+SYN-LEAD-0142,Bioinformatics,awaiting_reply,SYN-MENTOR-047,true
+SYN-LEAD-0143,Biomedical research,handoff_review,SYN-MENTOR-048,true
+SYN-LEAD-0144,Application planning,held,SYN-MENTOR-049,true
+SYN-LEAD-0145,Research statement,candidate,,true
+SYN-LEAD-0146,Research preparation,context_review,SYN-MENTOR-051,true
+SYN-LEAD-0147,Bioinformatics,draft_pending,SYN-MENTOR-052,true
+SYN-LEAD-0148,Biomedical research,awaiting_reply,SYN-MENTOR-053,true
+SYN-LEAD-0149,Application planning,handoff_review,,true
+SYN-LEAD-0150,Research statement,held,SYN-MENTOR-055,true
+SYN-LEAD-0151,Research preparation,candidate,SYN-MENTOR-056,true
+SYN-LEAD-0152,Bioinformatics,context_review,SYN-MENTOR-057,true
+SYN-LEAD-0153,Biomedical research,draft_pending,,true
+SYN-LEAD-0154,Application planning,awaiting_reply,SYN-MENTOR-059,true
+SYN-LEAD-0155,Research statement,handoff_review,SYN-MENTOR-060,true
+SYN-LEAD-0156,Research preparation,held,SYN-MENTOR-061,true
+SYN-LEAD-0157,Bioinformatics,candidate,,true
+SYN-LEAD-0158,Biomedical research,context_review,SYN-MENTOR-063,true
+SYN-LEAD-0159,Application planning,draft_pending,SYN-MENTOR-064,true
+SYN-LEAD-0160,Research statement,awaiting_reply,SYN-MENTOR-065,true
+SYN-LEAD-0161,Research preparation,handoff_review,,true
+SYN-LEAD-0162,Bioinformatics,held,SYN-MENTOR-067,true
+SYN-LEAD-0163,Biomedical research,candidate,SYN-MENTOR-068,true
+SYN-LEAD-0164,Application planning,context_review,SYN-MENTOR-069,true
+SYN-LEAD-0165,Research statement,draft_pending,,true
+SYN-LEAD-0166,Research preparation,awaiting_reply,SYN-MENTOR-071,true
+SYN-LEAD-0167,Bioinformatics,handoff_review,SYN-MENTOR-072,true
+SYN-LEAD-0168,Biomedical research,held,SYN-MENTOR-073,true
+SYN-LEAD-0169,Application planning,candidate,,true
+SYN-LEAD-0170,Research statement,context_review,SYN-MENTOR-075,true
+SYN-LEAD-0171,Research preparation,draft_pending,SYN-MENTOR-076,true
+SYN-LEAD-0172,Bioinformatics,awaiting_reply,SYN-MENTOR-077,true
+SYN-LEAD-0173,Biomedical research,handoff_review,,true
+SYN-LEAD-0174,Application planning,held,SYN-MENTOR-079,true
+SYN-LEAD-0175,Research statement,candidate,SYN-MENTOR-080,true
+SYN-LEAD-0176,Research preparation,context_review,SYN-MENTOR-081,true
+SYN-LEAD-0177,Bioinformatics,draft_pending,,true
+SYN-LEAD-0178,Biomedical research,awaiting_reply,SYN-MENTOR-083,true
+SYN-LEAD-0179,Application planning,handoff_review,SYN-MENTOR-084,true
+SYN-LEAD-0180,Research statement,held,SYN-MENTOR-085,true
+SYN-LEAD-0181,Research preparation,candidate,,true
+SYN-LEAD-0182,Bioinformatics,context_review,SYN-MENTOR-087,true
+SYN-LEAD-0183,Biomedical research,draft_pending,SYN-MENTOR-088,true
+SYN-LEAD-0184,Application planning,awaiting_reply,SYN-MENTOR-089,true
+SYN-LEAD-0185,Research statement,handoff_review,,true
+SYN-LEAD-0186,Research preparation,held,SYN-MENTOR-091,true
+SYN-LEAD-0187,Bioinformatics,candidate,SYN-MENTOR-092,true
+SYN-LEAD-0188,Biomedical research,context_review,SYN-MENTOR-093,true
+SYN-LEAD-0189,Application planning,draft_pending,,true
+SYN-LEAD-0190,Research statement,awaiting_reply,SYN-MENTOR-095,true
+SYN-LEAD-0191,Research preparation,handoff_review,SYN-MENTOR-001,true
+SYN-LEAD-0192,Bioinformatics,held,SYN-MENTOR-002,true
+SYN-LEAD-0193,Biomedical research,candidate,,true
+SYN-LEAD-0194,Application planning,context_review,SYN-MENTOR-004,true
+SYN-LEAD-0195,Research statement,draft_pending,SYN-MENTOR-005,true
+SYN-LEAD-0196,Research preparation,awaiting_reply,SYN-MENTOR-006,true
+SYN-LEAD-0197,Bioinformatics,handoff_review,,true
+SYN-LEAD-0198,Biomedical research,held,SYN-MENTOR-008,true
+SYN-LEAD-0199,Application planning,candidate,SYN-MENTOR-009,true
+SYN-LEAD-0200,Research statement,context_review,SYN-MENTOR-010,true
+SYN-LEAD-0201,Research preparation,draft_pending,,true
+SYN-LEAD-0202,Bioinformatics,awaiting_reply,SYN-MENTOR-012,true
+SYN-LEAD-0203,Biomedical research,handoff_review,SYN-MENTOR-013,true
+SYN-LEAD-0204,Application planning,held,SYN-MENTOR-014,true
+SYN-LEAD-0205,Research statement,candidate,,true
+SYN-LEAD-0206,Research preparation,context_review,SYN-MENTOR-016,true
+SYN-LEAD-0207,Bioinformatics,draft_pending,SYN-MENTOR-017,true
+SYN-LEAD-0208,Biomedical research,awaiting_reply,SYN-MENTOR-018,true
+SYN-LEAD-0209,Application planning,handoff_review,,true
+SYN-LEAD-0210,Research statement,held,SYN-MENTOR-020,true
+SYN-LEAD-0211,Research preparation,candidate,SYN-MENTOR-021,true
+SYN-LEAD-0212,Bioinformatics,context_review,SYN-MENTOR-022,true
+SYN-LEAD-0213,Biomedical research,draft_pending,,true
+SYN-LEAD-0214,Application planning,awaiting_reply,SYN-MENTOR-024,true
+SYN-LEAD-0215,Research statement,handoff_review,SYN-MENTOR-025,true
+SYN-LEAD-0216,Research preparation,held,SYN-MENTOR-026,true
+SYN-LEAD-0217,Bioinformatics,candidate,,true
+SYN-LEAD-0218,Biomedical research,context_review,SYN-MENTOR-028,true
+SYN-LEAD-0219,Application planning,draft_pending,SYN-MENTOR-029,true
+SYN-LEAD-0220,Research statement,awaiting_reply,SYN-MENTOR-030,true
+SYN-LEAD-0221,Research preparation,handoff_review,,true
+SYN-LEAD-0222,Bioinformatics,held,SYN-MENTOR-032,true
+SYN-LEAD-0223,Biomedical research,candidate,SYN-MENTOR-033,true
+SYN-LEAD-0224,Application planning,context_review,SYN-MENTOR-034,true
+SYN-LEAD-0225,Research statement,draft_pending,,true
+SYN-LEAD-0226,Research preparation,awaiting_reply,SYN-MENTOR-036,true
+SYN-LEAD-0227,Bioinformatics,handoff_review,SYN-MENTOR-037,true
+SYN-LEAD-0228,Biomedical research,held,SYN-MENTOR-038,true
+SYN-LEAD-0229,Application planning,candidate,,true
+SYN-LEAD-0230,Research statement,context_review,SYN-MENTOR-040,true
+SYN-LEAD-0231,Research preparation,draft_pending,SYN-MENTOR-041,true
+SYN-LEAD-0232,Bioinformatics,awaiting_reply,SYN-MENTOR-042,true
+SYN-LEAD-0233,Biomedical research,handoff_review,,true
+SYN-LEAD-0234,Application planning,held,SYN-MENTOR-044,true
+SYN-LEAD-0235,Research statement,candidate,SYN-MENTOR-045,true
+SYN-LEAD-0236,Research preparation,context_review,SYN-MENTOR-046,true
+SYN-LEAD-0237,Bioinformatics,draft_pending,,true
+SYN-LEAD-0238,Biomedical research,awaiting_reply,SYN-MENTOR-048,true
+SYN-LEAD-0239,Application planning,handoff_review,SYN-MENTOR-049,true
+SYN-LEAD-0240,Research statement,held,SYN-MENTOR-050,true
+SYN-LEAD-0241,Research preparation,candidate,,true
+SYN-LEAD-0242,Bioinformatics,context_review,SYN-MENTOR-052,true
+SYN-LEAD-0243,Biomedical research,draft_pending,SYN-MENTOR-053,true
+SYN-LEAD-0244,Application planning,awaiting_reply,SYN-MENTOR-054,true
+SYN-LEAD-0245,Research statement,handoff_review,,true
+SYN-LEAD-0246,Research preparation,held,SYN-MENTOR-056,true
+SYN-LEAD-0247,Bioinformatics,candidate,SYN-MENTOR-057,true
+SYN-LEAD-0248,Biomedical research,context_review,SYN-MENTOR-058,true
+SYN-LEAD-0249,Application planning,draft_pending,,true
+SYN-LEAD-0250,Research statement,awaiting_reply,SYN-MENTOR-060,true
+SYN-LEAD-0251,Research preparation,handoff_review,SYN-MENTOR-061,true
+SYN-LEAD-0252,Bioinformatics,held,SYN-MENTOR-062,true
+SYN-LEAD-0253,Biomedical research,candidate,,true
+SYN-LEAD-0254,Application planning,context_review,SYN-MENTOR-064,true
+SYN-LEAD-0255,Research statement,draft_pending,SYN-MENTOR-065,true
+SYN-LEAD-0256,Research preparation,awaiting_reply,SYN-MENTOR-066,true
+SYN-LEAD-0257,Bioinformatics,handoff_review,,true
+SYN-LEAD-0258,Biomedical research,held,SYN-MENTOR-068,true
+SYN-LEAD-0259,Application planning,candidate,SYN-MENTOR-069,true
+SYN-LEAD-0260,Research statement,context_review,SYN-MENTOR-070,true
+SYN-LEAD-0261,Research preparation,draft_pending,,true
+SYN-LEAD-0262,Bioinformatics,awaiting_reply,SYN-MENTOR-072,true
+SYN-LEAD-0263,Biomedical research,handoff_review,SYN-MENTOR-073,true
+SYN-LEAD-0264,Application planning,held,SYN-MENTOR-074,true
+SYN-LEAD-0265,Research statement,candidate,,true
+SYN-LEAD-0266,Research preparation,context_review,SYN-MENTOR-076,true
+SYN-LEAD-0267,Bioinformatics,draft_pending,SYN-MENTOR-077,true
+SYN-LEAD-0268,Biomedical research,awaiting_reply,SYN-MENTOR-078,true
+SYN-LEAD-0269,Application planning,handoff_review,,true
+SYN-LEAD-0270,Research statement,held,SYN-MENTOR-080,true
+SYN-LEAD-0271,Research preparation,candidate,SYN-MENTOR-081,true
+SYN-LEAD-0272,Bioinformatics,context_review,SYN-MENTOR-082,true
+SYN-LEAD-0273,Biomedical research,draft_pending,,true
+SYN-LEAD-0274,Application planning,awaiting_reply,SYN-MENTOR-084,true
+SYN-LEAD-0275,Research statement,handoff_review,SYN-MENTOR-085,true
+SYN-LEAD-0276,Research preparation,held,SYN-MENTOR-086,true
+SYN-LEAD-0277,Bioinformatics,candidate,,true
+SYN-LEAD-0278,Biomedical research,context_review,SYN-MENTOR-088,true
+SYN-LEAD-0279,Application planning,draft_pending,SYN-MENTOR-089,true
+SYN-LEAD-0280,Research statement,awaiting_reply,SYN-MENTOR-090,true
+SYN-LEAD-0281,Research preparation,handoff_review,,true
+SYN-LEAD-0282,Bioinformatics,held,SYN-MENTOR-092,true
+SYN-LEAD-0283,Biomedical research,candidate,SYN-MENTOR-093,true
+SYN-LEAD-0284,Application planning,context_review,SYN-MENTOR-094,true
+SYN-LEAD-0285,Research statement,draft_pending,,true
+SYN-LEAD-0286,Research preparation,awaiting_reply,SYN-MENTOR-001,true
+SYN-LEAD-0287,Bioinformatics,handoff_review,SYN-MENTOR-002,true
+SYN-LEAD-0288,Biomedical research,held,SYN-MENTOR-003,true
+SYN-LEAD-0289,Application planning,candidate,,true
+SYN-LEAD-0290,Research statement,context_review,SYN-MENTOR-005,true
+SYN-LEAD-0291,Research preparation,draft_pending,SYN-MENTOR-006,true
+SYN-LEAD-0292,Bioinformatics,awaiting_reply,SYN-MENTOR-007,true
+SYN-LEAD-0293,Biomedical research,handoff_review,,true
+SYN-LEAD-0294,Application planning,held,SYN-MENTOR-009,true
+SYN-LEAD-0295,Research statement,candidate,SYN-MENTOR-010,true
+SYN-LEAD-0296,Research preparation,context_review,SYN-MENTOR-011,true
+SYN-LEAD-0297,Bioinformatics,draft_pending,,true
+SYN-LEAD-0298,Biomedical research,awaiting_reply,SYN-MENTOR-013,true
+SYN-LEAD-0299,Application planning,handoff_review,SYN-MENTOR-014,true
+SYN-LEAD-0300,Research statement,held,SYN-MENTOR-015,true
+SYN-LEAD-0301,Research preparation,candidate,,true
+SYN-LEAD-0302,Bioinformatics,context_review,SYN-MENTOR-017,true
+SYN-LEAD-0303,Biomedical research,draft_pending,SYN-MENTOR-018,true
+SYN-LEAD-0304,Application planning,awaiting_reply,SYN-MENTOR-019,true
+SYN-LEAD-0305,Research statement,handoff_review,,true
+SYN-LEAD-0306,Research preparation,held,SYN-MENTOR-021,true
+SYN-LEAD-0307,Bioinformatics,candidate,SYN-MENTOR-022,true
+SYN-LEAD-0308,Biomedical research,context_review,SYN-MENTOR-023,true
+SYN-LEAD-0309,Application planning,draft_pending,,true
+SYN-LEAD-0310,Research statement,awaiting_reply,SYN-MENTOR-025,true
+SYN-LEAD-0311,Research preparation,handoff_review,SYN-MENTOR-026,true
+SYN-LEAD-0312,Bioinformatics,held,SYN-MENTOR-027,true
+SYN-LEAD-0313,Biomedical research,candidate,,true
+SYN-LEAD-0314,Application planning,context_review,SYN-MENTOR-029,true
+SYN-LEAD-0315,Research statement,draft_pending,SYN-MENTOR-030,true
+SYN-LEAD-0316,Research preparation,awaiting_reply,SYN-MENTOR-031,true
+SYN-LEAD-0317,Bioinformatics,handoff_review,,true
+SYN-LEAD-0318,Biomedical research,held,SYN-MENTOR-033,true
+SYN-LEAD-0319,Application planning,candidate,SYN-MENTOR-034,true
+SYN-LEAD-0320,Research statement,context_review,SYN-MENTOR-035,true
+SYN-LEAD-0321,Research preparation,draft_pending,,true
+SYN-LEAD-0322,Bioinformatics,awaiting_reply,SYN-MENTOR-037,true
+SYN-LEAD-0323,Biomedical research,handoff_review,SYN-MENTOR-038,true
+SYN-LEAD-0324,Application planning,held,SYN-MENTOR-039,true
+SYN-LEAD-0325,Research statement,candidate,,true
+SYN-LEAD-0326,Research preparation,context_review,SYN-MENTOR-041,true
+SYN-LEAD-0327,Bioinformatics,draft_pending,SYN-MENTOR-042,true
+SYN-LEAD-0328,Biomedical research,awaiting_reply,SYN-MENTOR-043,true
+SYN-LEAD-0329,Application planning,handoff_review,,true
+SYN-LEAD-0330,Research statement,held,SYN-MENTOR-045,true
+SYN-LEAD-0331,Research preparation,candidate,SYN-MENTOR-046,true
+SYN-LEAD-0332,Bioinformatics,context_review,SYN-MENTOR-047,true
+SYN-LEAD-0333,Biomedical research,draft_pending,,true
+SYN-LEAD-0334,Application planning,awaiting_reply,SYN-MENTOR-049,true
+SYN-LEAD-0335,Research statement,handoff_review,SYN-MENTOR-050,true
+SYN-LEAD-0336,Research preparation,held,SYN-MENTOR-051,true
+SYN-LEAD-0337,Bioinformatics,candidate,,true
+SYN-LEAD-0338,Biomedical research,context_review,SYN-MENTOR-053,true
+SYN-LEAD-0339,Application planning,draft_pending,SYN-MENTOR-054,true
+SYN-LEAD-0340,Research statement,awaiting_reply,SYN-MENTOR-055,true
+SYN-LEAD-0341,Research preparation,handoff_review,,true
+SYN-LEAD-0342,Bioinformatics,held,SYN-MENTOR-057,true
+SYN-LEAD-0343,Biomedical research,candidate,SYN-MENTOR-058,true
+SYN-LEAD-0344,Application planning,context_review,SYN-MENTOR-059,true
+SYN-LEAD-0345,Research statement,draft_pending,,true
+SYN-LEAD-0346,Research preparation,awaiting_reply,SYN-MENTOR-061,true
+SYN-LEAD-0347,Bioinformatics,handoff_review,SYN-MENTOR-062,true
+SYN-LEAD-0348,Biomedical research,held,SYN-MENTOR-063,true
+SYN-LEAD-0349,Application planning,candidate,,true
+SYN-LEAD-0350,Research statement,context_review,SYN-MENTOR-065,true
+SYN-LEAD-0351,Research preparation,draft_pending,SYN-MENTOR-066,true
+SYN-LEAD-0352,Bioinformatics,awaiting_reply,SYN-MENTOR-067,true
+SYN-LEAD-0353,Biomedical research,handoff_review,,true
+SYN-LEAD-0354,Application planning,held,SYN-MENTOR-069,true
+SYN-LEAD-0355,Research statement,candidate,SYN-MENTOR-070,true
+SYN-LEAD-0356,Research preparation,context_review,SYN-MENTOR-071,true
+SYN-LEAD-0357,Bioinformatics,draft_pending,,true
+SYN-LEAD-0358,Biomedical research,awaiting_reply,SYN-MENTOR-073,true
+SYN-LEAD-0359,Application planning,handoff_review,SYN-MENTOR-074,true
+SYN-LEAD-0360,Research statement,held,SYN-MENTOR-075,true
+SYN-LEAD-0361,Research preparation,candidate,,true
+SYN-LEAD-0362,Bioinformatics,context_review,SYN-MENTOR-077,true
+SYN-LEAD-0363,Biomedical research,draft_pending,SYN-MENTOR-078,true
+SYN-LEAD-0364,Application planning,awaiting_reply,SYN-MENTOR-079,true
+SYN-LEAD-0365,Research statement,handoff_review,,true
+SYN-LEAD-0366,Research preparation,held,SYN-MENTOR-081,true
+SYN-LEAD-0367,Bioinformatics,candidate,SYN-MENTOR-082,true
+SYN-LEAD-0368,Biomedical research,context_review,SYN-MENTOR-083,true
+SYN-LEAD-0369,Application planning,draft_pending,,true
+SYN-LEAD-0370,Research statement,awaiting_reply,SYN-MENTOR-085,true
+SYN-LEAD-0371,Research preparation,handoff_review,SYN-MENTOR-086,true
+SYN-LEAD-0372,Bioinformatics,held,SYN-MENTOR-087,true
+SYN-LEAD-0373,Biomedical research,candidate,,true
+SYN-LEAD-0374,Application planning,context_review,SYN-MENTOR-089,true
+SYN-LEAD-0375,Research statement,draft_pending,SYN-MENTOR-090,true
+SYN-LEAD-0376,Research preparation,awaiting_reply,SYN-MENTOR-091,true
+SYN-LEAD-0377,Bioinformatics,handoff_review,,true
+SYN-LEAD-0378,Biomedical research,held,SYN-MENTOR-093,true
+SYN-LEAD-0379,Application planning,candidate,SYN-MENTOR-094,true
+SYN-LEAD-0380,Research statement,context_review,SYN-MENTOR-095,true
+SYN-LEAD-0381,Research preparation,draft_pending,,true
+SYN-LEAD-0382,Bioinformatics,awaiting_reply,SYN-MENTOR-002,true
+SYN-LEAD-0383,Biomedical research,handoff_review,SYN-MENTOR-003,true
+SYN-LEAD-0384,Application planning,held,SYN-MENTOR-004,true
+SYN-LEAD-0385,Research statement,candidate,,true
+SYN-LEAD-0386,Research preparation,context_review,SYN-MENTOR-006,true
+SYN-LEAD-0387,Bioinformatics,draft_pending,SYN-MENTOR-007,true
+SYN-LEAD-0388,Biomedical research,awaiting_reply,SYN-MENTOR-008,true
+SYN-LEAD-0389,Application planning,handoff_review,,true
+SYN-LEAD-0390,Research statement,held,SYN-MENTOR-010,true
+SYN-LEAD-0391,Research preparation,candidate,SYN-MENTOR-011,true
+SYN-LEAD-0392,Bioinformatics,context_review,SYN-MENTOR-012,true
+SYN-LEAD-0393,Biomedical research,draft_pending,,true
+SYN-LEAD-0394,Application planning,awaiting_reply,SYN-MENTOR-014,true
+SYN-LEAD-0395,Research statement,handoff_review,SYN-MENTOR-015,true
+SYN-LEAD-0396,Research preparation,held,SYN-MENTOR-016,true
+SYN-LEAD-0397,Bioinformatics,candidate,,true
+SYN-LEAD-0398,Biomedical research,context_review,SYN-MENTOR-018,true
+SYN-LEAD-0399,Application planning,draft_pending,SYN-MENTOR-019,true
+SYN-LEAD-0400,Research statement,awaiting_reply,SYN-MENTOR-020,true
+SYN-LEAD-0401,Research preparation,handoff_review,,true
+SYN-LEAD-0402,Bioinformatics,held,SYN-MENTOR-022,true
+SYN-LEAD-0403,Biomedical research,candidate,SYN-MENTOR-023,true
+SYN-LEAD-0404,Application planning,context_review,SYN-MENTOR-024,true
+SYN-LEAD-0405,Research statement,draft_pending,,true
+SYN-LEAD-0406,Research preparation,awaiting_reply,SYN-MENTOR-026,true
+SYN-LEAD-0407,Bioinformatics,handoff_review,SYN-MENTOR-027,true
+SYN-LEAD-0408,Biomedical research,held,SYN-MENTOR-028,true
+SYN-LEAD-0409,Application planning,candidate,,true
+SYN-LEAD-0410,Research statement,context_review,SYN-MENTOR-030,true
+SYN-LEAD-0411,Research preparation,draft_pending,SYN-MENTOR-031,true
+SYN-LEAD-0412,Bioinformatics,awaiting_reply,SYN-MENTOR-032,true
+SYN-LEAD-0413,Biomedical research,handoff_review,,true
+SYN-LEAD-0414,Application planning,held,SYN-MENTOR-034,true
+SYN-LEAD-0415,Research statement,candidate,SYN-MENTOR-035,true
+SYN-LEAD-0416,Research preparation,context_review,SYN-MENTOR-036,true
+SYN-LEAD-0417,Bioinformatics,draft_pending,,true
+SYN-LEAD-0418,Biomedical research,awaiting_reply,SYN-MENTOR-038,true
+SYN-LEAD-0419,Application planning,handoff_review,SYN-MENTOR-039,true
+SYN-LEAD-0420,Research statement,held,SYN-MENTOR-040,true
+SYN-LEAD-0421,Research preparation,candidate,,true
+SYN-LEAD-0422,Bioinformatics,context_review,SYN-MENTOR-042,true
+SYN-LEAD-0423,Biomedical research,draft_pending,SYN-MENTOR-043,true
+SYN-LEAD-0424,Application planning,awaiting_reply,SYN-MENTOR-044,true
+SYN-LEAD-0425,Research statement,handoff_review,,true
+SYN-LEAD-0426,Research preparation,held,SYN-MENTOR-046,true
+SYN-LEAD-0427,Bioinformatics,candidate,SYN-MENTOR-047,true
+SYN-LEAD-0428,Biomedical research,context_review,SYN-MENTOR-048,true
+SYN-LEAD-0429,Application planning,draft_pending,,true
+SYN-LEAD-0430,Research statement,awaiting_reply,SYN-MENTOR-050,true
+SYN-LEAD-0431,Research preparation,handoff_review,SYN-MENTOR-051,true
+SYN-LEAD-0432,Bioinformatics,held,SYN-MENTOR-052,true
+SYN-LEAD-0433,Biomedical research,candidate,,true
+SYN-LEAD-0434,Application planning,context_review,SYN-MENTOR-054,true
+SYN-LEAD-0435,Research statement,draft_pending,SYN-MENTOR-055,true
+SYN-LEAD-0436,Research preparation,awaiting_reply,SYN-MENTOR-056,true
+SYN-LEAD-0437,Bioinformatics,handoff_review,,true
+SYN-LEAD-0438,Biomedical research,held,SYN-MENTOR-058,true
+SYN-LEAD-0439,Application planning,candidate,SYN-MENTOR-059,true
+SYN-LEAD-0440,Research statement,context_review,SYN-MENTOR-060,true
+SYN-LEAD-0441,Research preparation,draft_pending,,true
+SYN-LEAD-0442,Bioinformatics,awaiting_reply,SYN-MENTOR-062,true
+SYN-LEAD-0443,Biomedical research,handoff_review,SYN-MENTOR-063,true
+SYN-LEAD-0444,Application planning,held,SYN-MENTOR-064,true
+SYN-LEAD-0445,Research statement,candidate,,true
+SYN-LEAD-0446,Research preparation,context_review,SYN-MENTOR-066,true
+SYN-LEAD-0447,Bioinformatics,draft_pending,SYN-MENTOR-067,true
+SYN-LEAD-0448,Biomedical research,awaiting_reply,SYN-MENTOR-068,true
+SYN-LEAD-0449,Application planning,handoff_review,,true
+SYN-LEAD-0450,Research statement,held,SYN-MENTOR-070,true
+SYN-LEAD-0451,Research preparation,candidate,SYN-MENTOR-071,true
+SYN-LEAD-0452,Bioinformatics,context_review,SYN-MENTOR-072,true
+SYN-LEAD-0453,Biomedical research,draft_pending,,true
+SYN-LEAD-0454,Application planning,awaiting_reply,SYN-MENTOR-074,true
+SYN-LEAD-0455,Research statement,handoff_review,SYN-MENTOR-075,true
+SYN-LEAD-0456,Research preparation,held,SYN-MENTOR-076,true
+SYN-LEAD-0457,Bioinformatics,candidate,,true
+SYN-LEAD-0458,Biomedical research,context_review,SYN-MENTOR-078,true
+SYN-LEAD-0459,Application planning,draft_pending,SYN-MENTOR-079,true
+SYN-LEAD-0460,Research statement,awaiting_reply,SYN-MENTOR-080,true
+SYN-LEAD-0461,Research preparation,handoff_review,,true
+SYN-LEAD-0462,Bioinformatics,held,SYN-MENTOR-082,true
+SYN-LEAD-0463,Biomedical research,candidate,SYN-MENTOR-083,true
+SYN-LEAD-0464,Application planning,context_review,SYN-MENTOR-084,true
+SYN-LEAD-0465,Research statement,draft_pending,,true
+SYN-LEAD-0466,Research preparation,awaiting_reply,SYN-MENTOR-086,true
+SYN-LEAD-0467,Bioinformatics,handoff_review,SYN-MENTOR-087,true
+SYN-LEAD-0468,Biomedical research,held,SYN-MENTOR-088,true
+SYN-LEAD-0469,Application planning,candidate,,true
+SYN-LEAD-0470,Research statement,context_review,SYN-MENTOR-090,true
+SYN-LEAD-0471,Research preparation,draft_pending,SYN-MENTOR-091,true
+SYN-LEAD-0472,Bioinformatics,awaiting_reply,SYN-MENTOR-092,true
+SYN-LEAD-0473,Biomedical research,handoff_review,,true
+SYN-LEAD-0474,Application planning,held,SYN-MENTOR-094,true
+SYN-LEAD-0475,Research statement,candidate,SYN-MENTOR-095,true
+SYN-LEAD-0476,Research preparation,context_review,SYN-MENTOR-001,true
+SYN-LEAD-0477,Bioinformatics,draft_pending,,true
+SYN-LEAD-0478,Biomedical research,awaiting_reply,SYN-MENTOR-003,true
+SYN-LEAD-0479,Application planning,handoff_review,SYN-MENTOR-004,true
+SYN-LEAD-0480,Research statement,held,SYN-MENTOR-005,true
+SYN-LEAD-0481,Research preparation,candidate,,true
+SYN-LEAD-0482,Bioinformatics,context_review,SYN-MENTOR-007,true
+SYN-LEAD-0483,Biomedical research,draft_pending,SYN-MENTOR-008,true
+SYN-LEAD-0484,Application planning,awaiting_reply,SYN-MENTOR-009,true
+SYN-LEAD-0485,Research statement,handoff_review,,true
+SYN-LEAD-0486,Research preparation,held,SYN-MENTOR-011,true
+SYN-LEAD-0487,Bioinformatics,candidate,SYN-MENTOR-012,true
+SYN-LEAD-0488,Biomedical research,context_review,SYN-MENTOR-013,true
+SYN-LEAD-0489,Application planning,draft_pending,,true
+SYN-LEAD-0490,Research statement,awaiting_reply,SYN-MENTOR-015,true
+SYN-LEAD-0491,Research preparation,handoff_review,SYN-MENTOR-016,true
+SYN-LEAD-0492,Bioinformatics,held,SYN-MENTOR-017,true
+SYN-LEAD-0493,Biomedical research,candidate,,true
+SYN-LEAD-0494,Application planning,context_review,SYN-MENTOR-019,true
+SYN-LEAD-0495,Research statement,draft_pending,SYN-MENTOR-020,true
+SYN-LEAD-0496,Research preparation,awaiting_reply,SYN-MENTOR-021,true
+SYN-LEAD-0497,Bioinformatics,handoff_review,,true
+SYN-LEAD-0498,Biomedical research,held,SYN-MENTOR-023,true
+SYN-LEAD-0499,Application planning,candidate,SYN-MENTOR-024,true
+SYN-LEAD-0500,Research statement,context_review,SYN-MENTOR-025,true
+SYN-LEAD-0501,Research preparation,draft_pending,,true
+SYN-LEAD-0502,Bioinformatics,awaiting_reply,SYN-MENTOR-027,true
+SYN-LEAD-0503,Biomedical research,handoff_review,SYN-MENTOR-028,true
+SYN-LEAD-0504,Application planning,held,SYN-MENTOR-029,true
+SYN-LEAD-0505,Research statement,candidate,,true
+SYN-LEAD-0506,Research preparation,context_review,SYN-MENTOR-031,true
+SYN-LEAD-0507,Bioinformatics,draft_pending,SYN-MENTOR-032,true
+SYN-LEAD-0508,Biomedical research,awaiting_reply,SYN-MENTOR-033,true
+SYN-LEAD-0509,Application planning,handoff_review,,true
+SYN-LEAD-0510,Research statement,held,SYN-MENTOR-035,true
+SYN-LEAD-0511,Research preparation,candidate,SYN-MENTOR-036,true
+SYN-LEAD-0512,Bioinformatics,context_review,SYN-MENTOR-037,true
+SYN-LEAD-0513,Biomedical research,draft_pending,,true
+SYN-LEAD-0514,Application planning,awaiting_reply,SYN-MENTOR-039,true
+SYN-LEAD-0515,Research statement,handoff_review,SYN-MENTOR-040,true
+SYN-LEAD-0516,Research preparation,held,SYN-MENTOR-041,true
+SYN-LEAD-0517,Bioinformatics,candidate,,true
+SYN-LEAD-0518,Biomedical research,context_review,SYN-MENTOR-043,true
+SYN-LEAD-0519,Application planning,draft_pending,SYN-MENTOR-044,true
+SYN-LEAD-0520,Research statement,awaiting_reply,SYN-MENTOR-045,true
+SYN-LEAD-0521,Research preparation,handoff_review,,true
+SYN-LEAD-0522,Bioinformatics,held,SYN-MENTOR-047,true
+SYN-LEAD-0523,Biomedical research,candidate,SYN-MENTOR-048,true
+SYN-LEAD-0524,Application planning,context_review,SYN-MENTOR-049,true
+SYN-LEAD-0525,Research statement,draft_pending,,true
+SYN-LEAD-0526,Research preparation,awaiting_reply,SYN-MENTOR-051,true
+SYN-LEAD-0527,Bioinformatics,handoff_review,SYN-MENTOR-052,true
+SYN-LEAD-0528,Biomedical research,held,SYN-MENTOR-053,true
+SYN-LEAD-0529,Application planning,candidate,,true
+SYN-LEAD-0530,Research statement,context_review,SYN-MENTOR-055,true
+SYN-LEAD-0531,Research preparation,draft_pending,SYN-MENTOR-056,true
+SYN-LEAD-0532,Bioinformatics,awaiting_reply,SYN-MENTOR-057,true
+SYN-LEAD-0533,Biomedical research,handoff_review,,true
+SYN-LEAD-0534,Application planning,held,SYN-MENTOR-059,true
+SYN-LEAD-0535,Research statement,candidate,SYN-MENTOR-060,true
+SYN-LEAD-0536,Research preparation,context_review,SYN-MENTOR-061,true
+SYN-LEAD-0537,Bioinformatics,draft_pending,,true
+SYN-LEAD-0538,Biomedical research,awaiting_reply,SYN-MENTOR-063,true
+SYN-LEAD-0539,Application planning,handoff_review,SYN-MENTOR-064,true
+SYN-LEAD-0540,Research statement,held,SYN-MENTOR-065,true
+SYN-LEAD-0541,Research preparation,candidate,,true
+SYN-LEAD-0542,Bioinformatics,context_review,SYN-MENTOR-067,true
+SYN-LEAD-0543,Biomedical research,draft_pending,SYN-MENTOR-068,true
+SYN-LEAD-0544,Application planning,awaiting_reply,SYN-MENTOR-069,true
+SYN-LEAD-0545,Research statement,handoff_review,,true
+SYN-LEAD-0546,Research preparation,held,SYN-MENTOR-071,true
+SYN-LEAD-0547,Bioinformatics,candidate,SYN-MENTOR-072,true
+SYN-LEAD-0548,Biomedical research,context_review,SYN-MENTOR-073,true
+SYN-LEAD-0549,Application planning,draft_pending,,true
+SYN-LEAD-0550,Research statement,awaiting_reply,SYN-MENTOR-075,true
+SYN-LEAD-0551,Research preparation,handoff_review,SYN-MENTOR-076,true
+SYN-LEAD-0552,Bioinformatics,held,SYN-MENTOR-077,true
+SYN-LEAD-0553,Biomedical research,candidate,,true
+SYN-LEAD-0554,Application planning,context_review,SYN-MENTOR-079,true
+SYN-LEAD-0555,Research statement,draft_pending,SYN-MENTOR-080,true
+SYN-LEAD-0556,Research preparation,awaiting_reply,SYN-MENTOR-081,true
+SYN-LEAD-0557,Bioinformatics,handoff_review,,true
+SYN-LEAD-0558,Biomedical research,held,SYN-MENTOR-083,true
+SYN-LEAD-0559,Application planning,candidate,SYN-MENTOR-084,true
+SYN-LEAD-0560,Research statement,context_review,SYN-MENTOR-085,true
+SYN-LEAD-0561,Research preparation,draft_pending,,true
+SYN-LEAD-0562,Bioinformatics,awaiting_reply,SYN-MENTOR-087,true
+SYN-LEAD-0563,Biomedical research,handoff_review,SYN-MENTOR-088,true
+SYN-LEAD-0564,Application planning,held,SYN-MENTOR-089,true
+SYN-LEAD-0565,Research statement,candidate,,true
+SYN-LEAD-0566,Research preparation,context_review,SYN-MENTOR-091,true
+SYN-LEAD-0567,Bioinformatics,draft_pending,SYN-MENTOR-092,true
+SYN-LEAD-0568,Biomedical research,awaiting_reply,SYN-MENTOR-093,true
+SYN-LEAD-0569,Application planning,handoff_review,,true
+SYN-LEAD-0570,Research statement,held,SYN-MENTOR-095,true
+SYN-LEAD-0571,Research preparation,candidate,SYN-MENTOR-001,true
+SYN-LEAD-0572,Bioinformatics,context_review,SYN-MENTOR-002,true
+SYN-LEAD-0573,Biomedical research,draft_pending,,true
+SYN-LEAD-0574,Application planning,awaiting_reply,SYN-MENTOR-004,true
+SYN-LEAD-0575,Research statement,handoff_review,SYN-MENTOR-005,true
+SYN-LEAD-0576,Research preparation,held,SYN-MENTOR-006,true
+SYN-LEAD-0577,Bioinformatics,candidate,,true
+SYN-LEAD-0578,Biomedical research,context_review,SYN-MENTOR-008,true
+SYN-LEAD-0579,Application planning,draft_pending,SYN-MENTOR-009,true
+SYN-LEAD-0580,Research statement,awaiting_reply,SYN-MENTOR-010,true
+SYN-LEAD-0581,Research preparation,handoff_review,,true
+SYN-LEAD-0582,Bioinformatics,held,SYN-MENTOR-012,true
+SYN-LEAD-0583,Biomedical research,candidate,SYN-MENTOR-013,true
+SYN-LEAD-0584,Application planning,context_review,SYN-MENTOR-014,true
+SYN-LEAD-0585,Research statement,draft_pending,,true
+SYN-LEAD-0586,Research preparation,awaiting_reply,SYN-MENTOR-016,true
+SYN-LEAD-0587,Bioinformatics,handoff_review,SYN-MENTOR-017,true
+SYN-LEAD-0588,Biomedical research,held,SYN-MENTOR-018,true
+SYN-LEAD-0589,Application planning,candidate,,true
+SYN-LEAD-0590,Research statement,context_review,SYN-MENTOR-020,true
+SYN-LEAD-0591,Research preparation,draft_pending,SYN-MENTOR-021,true
+SYN-LEAD-0592,Bioinformatics,awaiting_reply,SYN-MENTOR-022,true
+SYN-LEAD-0593,Biomedical research,handoff_review,,true
+SYN-LEAD-0594,Application planning,held,SYN-MENTOR-024,true
+SYN-LEAD-0595,Research statement,candidate,SYN-MENTOR-025,true
+SYN-LEAD-0596,Research preparation,context_review,SYN-MENTOR-026,true
+SYN-LEAD-0597,Bioinformatics,draft_pending,,true
+SYN-LEAD-0598,Biomedical research,awaiting_reply,SYN-MENTOR-028,true
+SYN-LEAD-0599,Application planning,handoff_review,SYN-MENTOR-029,true
+SYN-LEAD-0600,Research statement,held,SYN-MENTOR-030,true
+SYN-LEAD-0601,Research preparation,candidate,,true
+SYN-LEAD-0602,Bioinformatics,context_review,SYN-MENTOR-032,true
+SYN-LEAD-0603,Biomedical research,draft_pending,SYN-MENTOR-033,true
+SYN-LEAD-0604,Application planning,awaiting_reply,SYN-MENTOR-034,true
+SYN-LEAD-0605,Research statement,handoff_review,,true
+SYN-LEAD-0606,Research preparation,held,SYN-MENTOR-036,true

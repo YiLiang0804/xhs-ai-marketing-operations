@@ -1,0 +1,11 @@
+[
+  {"id":"SEED-001","date":"2026-01-12","kind":"engagement","status":"approved","reviewer":"fictional_operator","synthetic":true},
+  {"id":"SEED-002","date":"2026-01-12","kind":"engagement","status":"approved","reviewer":"fictional_operator","synthetic":true},
+  {"id":"SEED-003","date":"2026-01-12","kind":"engagement","status":"approved","reviewer":"fictional_operator","synthetic":true},
+  {"id":"SEED-004","date":"2026-01-12","kind":"engagement","status":"approved","reviewer":"fictional_operator","synthetic":true},
+  {"id":"SEED-005","date":"2026-01-12","kind":"engagement","status":"approved","reviewer":"fictional_operator","synthetic":true},
+  {"id":"SEED-006","date":"2026-01-12","kind":"engagement","status":"approved","reviewer":"fictional_operator","synthetic":true},
+  {"id":"SEED-007","date":"2026-01-12","kind":"engagement","status":"approved","reviewer":"fictional_operator","synthetic":true},
+  {"id":"SEED-008","date":"2026-01-12","kind":"engagement","status":"approved","reviewer":"fictional_operator","synthetic":true},
+  {"id":"SEED-009","date":"2026-01-12","kind":"engagement","status":"approved","reviewer":"fictional_operator","synthetic":true}
+]
