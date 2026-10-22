@@ -1,0 +1,147 @@
+[
+  {
+    "post_id": "SYN-POST-01",
+    "author_id": "SYN-AUTHOR-01",
+    "synthetic": true,
+    "source": "homepage_visible_card",
+    "status": "pending_review",
+    "eligible_for_review": true,
+    "reasons": [
+      "relevant_request_with_reviewed_context"
+    ],
+    "anchor": "research-statement preparation",
+    "draft": "Hi, happy to discuss your research-statement preparation question if useful.",
+    "draft_method": "deterministic_context_template",
+    "sparse_profile": true,
+    "note": "Synthetic planning only; no communication is approved or sent."
+  },
+  {
+    "post_id": "SYN-POST-02",
+    "author_id": "SYN-AUTHOR-02",
+    "synthetic": true,
+    "source": "homepage_visible_card",
+    "status": "pending_review",
+    "eligible_for_review": true,
+    "reasons": [
+      "relevant_request_with_reviewed_context"
+    ],
+    "anchor": "bioinformatics application planning",
+    "draft": "Hi, happy to discuss your bioinformatics application planning question if useful.",
+    "draft_method": "deterministic_context_template",
+    "sparse_profile": false,
+    "note": "Synthetic planning only; no communication is approved or sent."
+  },
+  {
+    "post_id": "SYN-POST-03",
+    "author_id": "SYN-AUTHOR-03",
+    "synthetic": true,
+    "source": "homepage_visible_card",
+    "status": "held",
+    "eligible_for_review": false,
+    "reasons": [
+      "no_explicit_relevant_request",
+      "offer_or_result_sharing_only"
+    ],
+    "anchor": "offer celebration",
+    "draft": null,
+    "draft_method": "deterministic_context_template",
+    "sparse_profile": false,
+    "note": "Synthetic planning only; no communication is approved or sent."
+  },
+  {
+    "post_id": "SYN-POST-04",
+    "author_id": "SYN-AUTHOR-04",
+    "synthetic": true,
+    "source": "homepage_visible_card",
+    "status": "held",
+    "eligible_for_review": false,
+    "reasons": [
+      "no_explicit_relevant_request"
+    ],
+    "anchor": "campus life",
+    "draft": null,
+    "draft_method": "deterministic_context_template",
+    "sparse_profile": false,
+    "note": "Synthetic planning only; no communication is approved or sent."
+  },
+  {
+    "post_id": "SYN-POST-05",
+    "author_id": "SYN-AUTHOR-05",
+    "synthetic": true,
+    "source": "homepage_visible_card",
+    "status": "held",
+    "eligible_for_review": false,
+    "reasons": [
+      "service_fit_not_confirmed"
+    ],
+    "anchor": "an unrelated retail return",
+    "draft": null,
+    "draft_method": "deterministic_context_template",
+    "sparse_profile": false,
+    "note": "Synthetic planning only; no communication is approved or sent."
+  },
+  {
+    "post_id": "SYN-POST-06",
+    "author_id": "SYN-AUTHOR-06",
+    "synthetic": true,
+    "source": "saved_link",
+    "status": "held",
+    "eligible_for_review": false,
+    "reasons": [
+      "not_discovered_from_visible_home_feed"
+    ],
+    "anchor": "research preparation",
+    "draft": null,
+    "draft_method": "deterministic_context_template",
+    "sparse_profile": false,
+    "note": "Synthetic planning only; no communication is approved or sent."
+  },
+  {
+    "post_id": "SYN-POST-07",
+    "author_id": "SYN-AUTHOR-07",
+    "synthetic": true,
+    "source": "homepage_visible_card",
+    "status": "held",
+    "eligible_for_review": false,
+    "reasons": [
+      "contact_declined"
+    ],
+    "anchor": "application planning",
+    "draft": null,
+    "draft_method": "deterministic_context_template",
+    "sparse_profile": false,
+    "note": "Synthetic planning only; no communication is approved or sent."
+  },
+  {
+    "post_id": "SYN-POST-08",
+    "author_id": "SYN-AUTHOR-08",
+    "synthetic": true,
+    "source": "homepage_visible_card",
+    "status": "held",
+    "eligible_for_review": false,
+    "reasons": [
+      "author_profile_not_reviewed"
+    ],
+    "anchor": "a biomedical research question",
+    "draft": null,
+    "draft_method": "deterministic_context_template",
+    "sparse_profile": true,
+    "note": "Synthetic planning only; no communication is approved or sent."
+  },
+  {
+    "post_id": "SYN-POST-09",
+    "author_id": "SYN-AUTHOR-01",
+    "synthetic": true,
+    "source": "homepage_visible_card",
+    "status": "held",
+    "eligible_for_review": false,
+    "reasons": [
+      "author_already_in_review_plan"
+    ],
+    "anchor": "a second post from the same fictional author",
+    "draft": null,
+    "draft_method": "deterministic_context_template",
+    "sparse_profile": true,
+    "note": "Synthetic planning only; no communication is approved or sent."
+  }
+]
