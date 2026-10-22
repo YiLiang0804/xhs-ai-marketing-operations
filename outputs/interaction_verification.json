@@ -1,0 +1,49 @@
+[
+  {
+    "scenario": "complete visible comment and separately visible like",
+    "synthetic": true,
+    "post_id": "SYN-POST-01",
+    "target_matches": true,
+    "comment_status": "verified",
+    "like_status": "verified",
+    "pair_verified": true,
+    "can_attempt_comment": false,
+    "can_attempt_like": false,
+    "eligibility_note": "Verification-layer state only; authorization, history, checkpoint and platform readiness are separate checks.",
+    "reasons": [],
+    "network_actions": 0
+  },
+  {
+    "scenario": "send click without visible result",
+    "synthetic": true,
+    "post_id": "SYN-POST-01",
+    "target_matches": true,
+    "comment_status": "outcome_unknown",
+    "like_status": "not_attempted",
+    "pair_verified": false,
+    "can_attempt_comment": false,
+    "can_attempt_like": false,
+    "eligibility_note": "Verification-layer state only; authorization, history, checkpoint and platform readiness are separate checks.",
+    "reasons": [
+      "delivery_not_proven_do_not_resend"
+    ],
+    "network_actions": 0
+  },
+  {
+    "scenario": "result displayed under a different post",
+    "synthetic": true,
+    "post_id": "SYN-POST-01",
+    "target_matches": false,
+    "comment_status": "outcome_unknown",
+    "like_status": "not_attempted",
+    "pair_verified": false,
+    "can_attempt_comment": false,
+    "can_attempt_like": false,
+    "eligibility_note": "Verification-layer state only; authorization, history, checkpoint and platform readiness are separate checks.",
+    "reasons": [
+      "target_identity_not_confirmed",
+      "delivery_not_proven_do_not_resend"
+    ],
+    "network_actions": 0
+  }
+]
